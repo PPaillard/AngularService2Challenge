@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Blue Lagoon",
+    "price": 9.9,
+    "img": "https://cdn.laredoute.com/products/680by680/e/d/7/ed7e9effb87ab5f69d562d1a0998bd58.jpg"
+  },
+  {
+    "name": "Cosmopolitain",
+    "price": 11.9,
+    "img": "https://www.undejeunerdesoleil.com/wp-content/uploads/2020/05/Cosmopolitan_cocktail_recette.jpg"
+  },
+  {
+    "name": "Cocktail dark and stormy",
+    "price": 10.9,
+    "img": "https://www.ilovecakes.fr/wp-content/uploads/2020/07/cocktail-dark-stormy.jpg"
+  }
+]
